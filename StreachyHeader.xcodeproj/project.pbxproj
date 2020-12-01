@@ -20,7 +20,7 @@
 		F8B6678B25766D8000EDA501 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B6678A25766D8000EDA501 /* UIView+Extension.swift */; };
 		F8D1FA8D257672B8000C0288 /* UIApplication+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D1FA8C257672B8000C0288 /* UIApplication+Extension.swift */; };
 		F8D1FA9D25767A61000C0288 /* DescriptionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D1FA9C25767A61000C0288 /* DescriptionTableViewCell.swift */; };
-		F8D1FAA325767DBE000C0288 /* Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png in Resources */ = {isa = PBXBuildFile; fileRef = F8D1FAA225767DBE000C0288 /* Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png */; };
+		F8D1FAAB25768223000C0288 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = F8D1FAAA25768223000C0288 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +60,7 @@
 		F8B6678A25766D8000EDA501 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		F8D1FA8C257672B8000C0288 /* UIApplication+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+Extension.swift"; sourceTree = "<group>"; };
 		F8D1FA9C25767A61000C0288 /* DescriptionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionTableViewCell.swift; sourceTree = "<group>"; };
-		F8D1FAA225767DBE000C0288 /* Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png"; sourceTree = "<group>"; };
+		F8D1FAAA25768223000C0288 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,7 +173,7 @@
 		F8D1FAA125767DB1000C0288 /* Screenshot */ = {
 			isa = PBXGroup;
 			children = (
-				F8D1FAA225767DBE000C0288 /* Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png */,
+				F8D1FAAA25768223000C0288 /* screenshot.png */,
 			);
 			path = Screenshot;
 			sourceTree = "<group>";
@@ -281,10 +281,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8D1FAA325767DBE000C0288 /* Simulator Screen Shot - iPhone 11 - 2020-12-01 at 18.55.00.png in Resources */,
 				F8B66750257668BE00EDA501 /* LaunchScreen.storyboard in Resources */,
 				F8B6674D257668BE00EDA501 /* Assets.xcassets in Resources */,
 				F8B66748257668BD00EDA501 /* Main.storyboard in Resources */,
+				F8D1FAAB25768223000C0288 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
