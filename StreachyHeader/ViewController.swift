@@ -149,7 +149,6 @@ extension ViewController : UITableViewDelegate, UITableViewDataSource {
         self.tableView.tableFooterView = UIView()
         self.tableView.rowHeight = UITableView.automaticDimension
         self.tableView.estimatedRowHeight = 50
-        //self.tableView.register(DescriptionTableViewCell.self, forCellReuseIdentifier: "DescriptionTableViewCell")
         self.reloadTableView()
     }
     private func reloadTableView() {
