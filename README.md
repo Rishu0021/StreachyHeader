@@ -1,7 +1,7 @@
 # StreachyHeader
 A Tutorial on how to create Streachy Header Effect with transparent navigation bar.
 
-![Image of Yaktocat](https://github.com/Rishu0021/StreachyHeader/blob/main/StreachyHeader/Screenshot/screenshot.png)
+![screenshot](https://github.com/Rishu0021/StreachyHeader/blob/main/StreachyHeader/Screenshot/screenshot.png)
 
 # Prerequisites
 - Swift 5
